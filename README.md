@@ -9,10 +9,10 @@ Simples página para adicionar respositórios a uma lista e visualizá-los indiv
 <h3>Rodando o Projeto:</h3>
 
 Baixar dependencias:   
-<h3><code>yarn | npm install</code></h3>
+<h3><code>yarn</code> ou <code>npm install</code></h3>
 
 Executar:   
-<h3><code>yarn start | npm start</code></h3>
+<h3><code>yarn start</code> ou <code>npm start</code></h3>
 
 <h3>Telas:</h3>
 <p align="center">
